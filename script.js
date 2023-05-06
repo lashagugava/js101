@@ -10,7 +10,6 @@ else {
     alert("ნუ წუწუნებ შე ვირო")
 }
 
-///
 
 const numbers = [15,18,25,125]
 let maximum = -Infinity
